@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech delivered by Sir Audley Mervin Knight, His Majesties prime serjeant at law, and speaker of the House of Commons; to his grace James Duke of Ormond, Lord Lieutenant of Ireland, in the presence chamber in the castle of Dublin, the seventh of November, 1665</title>
+            <author>Mervyn, Audley, Sir, d. 1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89098</idno>
+            <idno type="STC">Wing M1885</idno>
+            <idno type="STC">ESTC R233460</idno>
+            <idno type="EEBO-CITATION">43078095</idno>
+            <idno type="OCLC">ocm 43078095</idno>
+            <idno type="VID">151604</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151604)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2267:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech delivered by Sir Audley Mervin Knight, His Majesties prime serjeant at law, and speaker of the House of Commons; to his grace James Duke of Ormond, Lord Lieutenant of Ireland, in the presence chamber in the castle of Dublin, the seventh of November, 1665</title>
+                  <author>Mervyn, Audley, Sir, d. 1675.</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>[2], 3-14, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Crook printer to the Kings Most Excellent Majesty: Re-printed at London, and are to be sold at the Ship in Saint Pauls Church-yard,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151604:1" rendition="simple:additions"/>
+            <p>A SPEECH Delivered by Sir <hi>A<g ref="char:V">Ʋ</g>DLEY MERVIN</hi> Knight, His Majeſties PRIME SERJEANT AT LAW, AND SPEAKER OF THE HOUSE of COMMONS; TO His Grace JAMES Duke of <hi>Ormond,</hi> Lord Lieutenant of <hi>Ireland,</hi> IN THE PRESENCE CHAMBER in the Caſtle of <hi>Dublin,</hi> The Seventh of <hi>November,</hi> 1665.</p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>John Crook</hi> Printer to the Kings Moſt Excellent Majeſty: Re-printed at <hi>London,</hi> and are to be ſold at the <hi>Ship</hi> in Saint <hi>Pauls</hi> Church-yard. 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:151604:2"/>
+            <pb n="3" facs="tcp:151604:2"/>
+            <opener>
+               <salute>May it pleaſe your Grace.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Houſe of Commons retaining a freſh and grateful memory of the re<g ref="char:EOLhyphen"/>peated advantages devolved upon them by their Addreſſes to your Grace, have commanded me in all humility to pre<g ref="char:EOLhyphen"/>ſent unto you this Inſtrument now in my hand, being entituled, <hi>A Declarati<g ref="char:EOLhyphen"/>on of the Knights, Citizens, and Burgeſ<g ref="char:EOLhyphen"/>ſes in the Commons Houſe of Parliament aſſembled.</hi>
+            </p>
+            <p>The Importance of it voted it, as to be performed with no leſs Solemnity then by the attendance of the whole Houſe, with their Speaker, upon your Grace; ſo, to embalm it for Poſterity, and that by Survivorſhip it might ſpeak when they were ſilent, That it ſhould be Entred in the Journal of their Houſe. This premiſed, with a due reſpect to the Sands in your Graces Hour-glaſs (that are not to be eſtimated in groſs, but by retail) whiſpers unto me this Caution, Not to light my Candle to the Sun, or to fully the Margin of their Text with any Gloſs of my own; as alſo not to intrench on that time that meaſures the ſafety of a Kingdom: I ſhall therefore keep up my Sails brailed, and only ſpread a Mizen to keep me from falling off from the Senſe of the Houſe upon three Conſiderations that were before them, which divides this Inſtrument into three eſſential parts.</p>
+            <p>Firſt, The Knights, Citizens, and Burgeſſes, lawfully by the Kings Writ Aſſembled in Parliament, knew themſelves to be the Grand Inqueſt of this Kingdom, who in diſcharge of their Duty had two things in their proſpect; firſt, ſuch occurrences at large as were conuſable by them during their receſs; and ſecondly, the preſent conſtitution of their Houſe: To them intent on the firſt of theſe there was a Preſentment made, That cer<g ref="char:EOLhyphen"/>tain Perſons, not capable of a Definition; for they want the ſpecifical dif<g ref="char:EOLhyphen"/>ference of a Rational Soul, and if of a Deſcription, it would ſwell the Period in too great a bulk; I will therefore follow the words of a Pre<g ref="char:EOLhyphen"/>ſentment, That certain WICKED Perſons, not having the Fear of God
+<pb n="4" facs="tcp:151604:3"/>
+before their eyes, but being ſeduced by a Diabolical inſtigation, had traiterouſly combin'd and confederated to raiſe a new Rebellion againſt his Majeſties Crown and Dignity: Had we conſulted Reaſon only we muſt have ſuppreſs'd our belief of it, and endors'd an <hi>Ignoramus,</hi> but except we will diſmember our ſelves, and not owne our ears at their Tryal, and our eyes at their Execution, we muſt find it <hi>Billa vera.</hi>
+            </p>
+            <p>Treaſon, Sir, is ſo comprehenſive a Crime, that aggravations cannot heighten it, or excuſes leſſen it; and the Laws of God, of Nature and Nations have ever raiſed the ſtrongeſt boundances to prevent the inunda<g ref="char:EOLhyphen"/>tion of it, eſpecially ſuch a Treaſon as would invert the uſe of Arms, and alienate the hearts of Subjects to the ſubverſion of that Government, for the preſervation whereof only they can be lawfully exerciſed and intent: This turns our Cordials into poyſon, and our waters into bloud; Kings being Gods Vicegerents upon Earth, nay in Holy Writ ſtiled Gods, the Laws have allowed that Analogy, that in reference to this Crime we are to be accountable for our thoughts; and ſince S. <hi>Auſtin</hi> tells us, <hi>Inanis eſt illa Legum Cenſura niſi divine Legis imaginem gerit,</hi> this judgment of our Law is founded on the Word of God, who lodgeth the Crown and Scepter of our King in that ſecurity, that he will iſſue Summons to the Birds of the Air to give in Evidence thoughts rebellibus againſt the Throne: Obſervable is the Roman Law reported by <hi>Tacitus, Qui dubi<g ref="char:EOLhyphen"/>tant diſciverunt;</hi> To ſcruple, doubt, or heſitate in performance of our Allegiance, was Treaſon unpardonable, Apoſtaſie inexcuſable.</p>
+            <p>The Houſe more diſtinctly conſidered this in two inſtances of that De<g ref="char:EOLhyphen"/>ſign, To ſurprize His Majeſties Caſtle, And to ſeize your Graces Perſon.</p>
+            <p>Unfortunate, Fortunate Caſtle! Unfortunate to be the level mark in the eye of every Rebellion: Thus the Dam paced on the three and twenty of <hi>October,</hi> 1641. and now the Colt ambles; ſuch, ſuch a Colt, that had not your Grace in breaking of it broke the neck of it, would in a ſmall tract of time become a reſty and ſtubborn Monſter: what was this but a complicated malice in one act to diſarm all His Majeſties good Subjects, to arm Traitors, to take the Childrens bread and give it to Dogs, to make the <hi>Aſylum</hi> of Innocency to be the Seat of Rapine, and the Palace of the King to be a Den of Thieves? But Fortunate art thou yet; for thou haſt taken them that would have taken thee; and thoſe that by ſeizing thy dear Dukes Perſon would have beheaded thee, thou beareſt their heads as Trophies of thy Victory; did I ſay, Sir, they would ſeize your Perſon! I fear I am in ſome miſtake; did they behold your Brow either ſmooth or rough, Love or Fear would have reſtrained them; Tigers would have fled you upon the firſt account; Lions have fled you upon the laſt: May not I take up the expreſſion of <hi>Tully</hi> againſt <hi>Cataline, Nihil hic te ora, nihil hic tc vultus moverunt?</hi> Could they imagine, that Spirit which courted Dangers, and eſpouſed Miſeries in defence of his Great Maſters Rights, would tamely have ſurrendred up that Royal Fort, and Enſigns of Royalty? Could they dream, that thoſe Officers and Guards under whoſe vigilancy the Golden Fleece had been ſecure, were all dreaming, or if awake, would have preſented them with their matches put out, to have pinion'd your arms, which ſo carefully had ſupported theirs? They
+<pb n="5" facs="tcp:151604:3"/>
+knew you were Gold in the Mine (Honourable by many Streams of anci<g ref="char:EOLhyphen"/>ent and untainted Bloud); they knew alſo this Gold was heightned by the Stamp of Royal Authority: I have read Witchcraft ſo improved, as that they could transfer tortures from the Effigies to the Perſon repreſent<g ref="char:EOLhyphen"/>ed: Rebellion is as the ſin of Witchcraft; why then this were to ſtab the King in Effigie: But had they enjoy'd a temporary Succeſs, could they think that no voice would ſound out one Revengeful Obſequy, That this day a great Prince was fallen in <hi>Ireland,</hi> And ſhall <hi>Abner</hi> dye ſo? But, Sir, on recollection, maugre theſe conſiderations, it is too true they would have ſeiz'd your Perſon, and in that all ours: O precipitate deſire of Inno<g ref="char:EOLhyphen"/>vation! that held the dark ſide of the Lanthorn unto our Reaſon, and the light ſide to our Paſſion: I conclude this with the well borrowed Caution of our Houſe, <hi>Fear God and the King, and meddle not with thoſe that are given to change:</hi> Sad and fatal would this change have proved; our wounds were ſcarce ſcarified, the cheeks of the Widows and Father<g ref="char:EOLhyphen"/>leſs ſcarce dry, the bones and ſculls ſilently declaiming againſt Rebelli<g ref="char:EOLhyphen"/>ons in every Field, this would have forc'd us to re-act the Tragedy of our miſeries upon a new Scene and Theatre of <hi>bloud.</hi> This laſt word puts me in mind of the Ring-leader of this Plot to bloud, of whom as it was ſaid of <hi>Nabal,</hi> Nabal <hi>is his name, and folly is with him;</hi> ſo of him, <hi>Bloud</hi> was his name, and bloud was in his heart, and the Swadle-band of this deſign was <hi>bloud.</hi> A ſad change! to metamorphoſe Heaven-born <hi>Monarchy</hi> into Hell-born <hi>Anarchy</hi> and confuſion, the reſtored Peace and Glory of the Church into relapſed Schiſms, Hereſies and Blaſphemies; the reverence of our Laws into the mock Pageantry of High Courts of Juſtice; the pleaſure of our Liberties into the anguiſh of ſervitude; and our Manna into the Garlick and Onions of <hi>Egypt: Fear God and the King, and meddle not with thoſe that are given to change.</hi>
+            </p>
+            <p>Mercy and Juſtice are the Cement of humane Societies; theſe Conſpi<g ref="char:EOLhyphen"/>rators have ſinned againſt both: Sentence was executed againſt ſome whom His Majeſty left to the judicature of his Parliament; Mercy was enjoy'd by all whom he had reſerved to the judgment of his own breaſt; ſo that theſe perſons will not hearken to the rod, <hi>and are deaf to the Charmer charm he never ſo ſweetly.</hi> A deſperate preſumption! whilſt this King<g ref="char:EOLhyphen"/>dom were dividing Lands forfeited for Rebellion, to perſwade the people that the readieſt way to ſecure them was to engage in a new one: I have obſerved, Dead vermine hang'd up in warrens will baniſh Creatures of the ſame ſpecies from the place: what thought theſe men became of the faculties of a Rational Soul in man? This was the height of imbitter'd Nature, to blow a Trumpet of Sedition while the hand was yet writing on the wall <hi>Mene Mene Tekel, &amp;c.</hi> Thus again they hearken not unto the rod: And let me aſk, was not <hi>Ireland</hi> now feeding upon <hi>Benjamins</hi> Meſs of Royal care and favour; nay ſome of thoſe perſons dipping their Sop in that Meſs, and yet reſolved to betry him? was not this Kingdoms womb pregnant with the firſt-born of our Hopes, the <hi>Act of Setlement,</hi> deriv'd from no leſs a Parentage then the breath of the Royal Aſſent, and would theſe men baptize it <hi>Ichabod,</hi> and cauſe our Glory and Hap<g ref="char:EOLhyphen"/>pineſs to end in ſhame and miſery? Though the Setlement of <hi>Ireland</hi> be
+<pb n="6" facs="tcp:151604:4"/>
+later, the care of it aroſe equally early in His Majeſties thoughts with the intereſts of his other Kingdoms, witneſs the twin-bearing date of this Parliament with the Parliament of <hi>England,</hi> and His Gracious Con<g ref="char:EOLhyphen"/>tinuance of it: the delays evidence the Intricacy, and engage us to the larger return of our Affections, Duties and Obedience, for the Expence of His Majeſties patience: And unneceſſarily diſcontented Spirits might and ought to have copied ſo fair and ſo authentique an Original: Thus might they have concluded againſt their Phanatique diſtempers from the Topicks of Reaſon; or were they void of that, yet they might have ſtrangled their ill-begotten Reſolves from the Topicks of Sence: were they not Eye-witneſſes of the cleer and <hi>diaphanous</hi> diſpenſation of Juſtice through the texture of that Government committed by His Sacred Ma<g ref="char:EOLhyphen"/>jeſty to your <hi>Grace;</hi> were they not Ear-witneſſes of that Diſcourſe deli<g ref="char:EOLhyphen"/>vered by your <hi>Grace,</hi> and Printed in the richeſt Volume, the Affections of a people, in which every Period was perfum'd with Grace, and the Branches of it laden with Apples of Gold in Pictures of Silver? Could the moſt diſſolute Roman Spirit be reſtrained by ſaying <hi>Cato looks on?</hi> It is below my Commiſſion, and truly my Nature, to flatter; but truth bluſheth not to aver, A greater then <hi>Cato</hi> is here; for what he ſpoke ſpeculatively at the beſt, your <hi>Grace</hi> maintain'd it practically in the worſt of times, <hi>viz.</hi>
+               <q>
+                  <p>Victrix cauſa Deis placuit, ſed victa <hi>Catoni.</hi>
+                  </p>
+               </q>
+            </p>
+            <p>Was it eaſie for to transform ſo great and underſtanding a people to become <hi>Idols,</hi> That in ſeeing they ſhould not ſee, and in hearing they ſhould not hear? would they have us reſign'd our ſenſe, that the Government rained Snares, when we felt the influence of it as the dew upon the tender graſs; that the Sky was overcaſt, gloomy, and ominous, when the Solar rays of Majeſty, reflected through your Government, be<g ref="char:EOLhyphen"/>got a new, verdant, and laſting Spring? I appeal to the greateſt Pro<g ref="char:EOLhyphen"/>phet amongſt us, durſt he foretell that ſome future luſtres of years could have reſtor'd this Kingdom to that beauty and progreſſive eſtate of perfection as now it enjoys, when they ſurveigh'd it in that Chaos your <hi>Grace</hi> entred upon it? I paſs by your patient and willing divorce (af<g ref="char:EOLhyphen"/>ter a long Exile) from this your Native Country to attend the pub<g ref="char:EOLhyphen"/>lique Setlement of this Kingdom; whilſt you laid aſide the one, where did we then lodge our fears? In your <hi>Graces</hi> breaſt: where were our Remedies prepar'd for His Majeſties approbation? Much, much in your <hi>Graces</hi> wiſdom: And when the execution of the <hi>Act of Setle<g ref="char:EOLhyphen"/>ment</hi> could not well proceed further without manifeſt inconveniency, you eſpouſed the further care of it, and left all to follow that: you made (I may ſay) a League offenſive and defenſive with it; if it ſhifted its ſtation, you ſhifted yours; if it travell'd in the peſtilence, you forſook it not; if it were in ſtorms, you bore up with it; and I hope we ſhall have cauſe to ſay you are return'd with your arms laden full of Sheaves: I will ſhut up this with one queſtion: Did your <hi>Graces</hi> own Eſtate pray in aid of any Act? yes truly; but it was only the Acts of your own Loyalty and
+<pb n="7" facs="tcp:151604:4"/>
+Sufferings: why then I correct my ſelf, it did not; for they were well known to your Great Maſter, who writes Injuries only upon the Sand, but far leſſer Merits than yours in Marble. I confeſs Sir I can find your Soul and Spirit throughout the Act, your Name in a place or two, but there ra<g ref="char:EOLhyphen"/>ther to Give than to Receive: But had you made your little finger greater than the loyns of your Predeceſſors (though this Kingdom never found you in the ruſhing Wind, but in the gentle Gales) muſt the Outcry be, <hi>To your Tents O Iſrael?</hi> and muſt we ſeek Reformation from Powder and Bul<g ref="char:EOLhyphen"/>let, which as a great Cardinal term'd it is
+<q>
+                  <p>——Ratio ultima Regum?</p>
+               </q>
+            </p>
+            <p>Or if we will pretend only to Petition His Majeſty, I ſay what means the Neighing of the Armed Horſes! <hi>Non bene conveniunt,</hi> Petitions and Armed Troops; and certainly the Devil was Maſter of the Ceremonies when Petitioners were brought with drawn Swords to approach the Throne.</p>
+            <p>Theſe Conſiderations, with many more, gave the firſt part of this Decla<g ref="char:EOLhyphen"/>ration its riſe, That as being the Repreſentative of all the Commons in this Kingdom, to declare their abhorrence and deteſtation as of all Conſpi<g ref="char:EOLhyphen"/>racies, Plots, Deſigns, Confederacies, and Inſurrections whatſoever, againſt His Sacred Majeſty, and His undoubted Rights of Government, though palliated with never ſo ſpecious Pretences, or guilded with glorious Titles; ſo to declare them to be Treaſon and Rebellion in the higheſt degree: And we are aſſured, Sir, that all His Majeſties faithful and loyal Commons of this Kingdom will, as we are bound to perform the Truſt repoſed by them in us, perform the Promiſes made by us in this our Declaration in their behalf; we are in a ſort their Godfathers, and we do ſolemnly vow to fight under the Banner of <hi>CHARLES</hi> the Second, His Heirs and Succeſſors, againſt the World and all the World, againſt the Fleſh and all manner of Fleſh, againſt the Devil and all his Inſtruments: Sir, I cannot omit this laſt Champion, it being an unqueſtionable truth, That never was there a Rebellion in which the Devil did not lead the Van, ordered the Battel, and drew up the Rear.</p>
+            <p>Thus far the Houſe proceeded upon the Inſpection of this Skeleton at large (we praiſe God that by your Graces Prudence and Vigilancy we can call it a Skeleton); but upon a more particular Anatomy of it, what ſhall I ſay, Sir! Grief and Horrour ſeizeth upon my Tongue; and yet,
+<q>
+                  <p>Infandum domus ipſa jubet renovare dolorem.</p>
+               </q>
+            </p>
+            <p>Were it not too late I would humbly requeſt you the Knights, Citizens, and Burgeſſes, to order ſome <hi>Boanerges</hi> to ſpeak this part; or may I not yet obtain the Indulgence allow'd to <hi>Archytas,</hi> commanded to repeat an un<g ref="char:EOLhyphen"/>pleaſing Paſſage, wrote it upon the Wall. But methinks I heare the voice, To the Orders of the Houſe: From your Grace therefore I humbly beg, (for to your Grace only I am commanded to apply my ſelf) that I may ex<g ref="char:EOLhyphen"/>preſs
+<pb n="8" facs="tcp:151604:5"/>
+it in <hi>Hieroglyphicks:</hi> Sir, the Oſtrich laid her Eggs in the Eagles Neſt; The Frogs crept into one of the Kings Palaces: <hi>Caeſar</hi> is wounded in the Senate: The Colledg of Diſciples, and <hi>Judas</hi> one of them. If ſo, that no Societies are priviledged from ſome Corruptions, Parliaments muſt not be ſtiled Triumphant whilſt the Church is Militant: And if in two, the leaſt of Numbers, and thoſe cemented by Holy Rites of Matrimony, the Bride may be unchaſt, (her ſhame, though the Bridegrooms misfortune) then Sir ſome Perſons who were called by the Kings Writ, capacitated with a Truſt from a well-believing People, to be Members of our Houſe, have been found to be ingaged in that Plot, ſo odious and deſtructive to all good men. Sir, this juſtly allarm'd us to find <hi>Death in the Pot,</hi> That the Foun<g ref="char:EOLhyphen"/>tains of Waters were become brackiſh, That part of the Magazine was on Fire, and that the Leproſie was amongſt the Phyſitians. Sir, we had be<g ref="char:EOLhyphen"/>fore us at that time many Bills, and matters of weighty importance, even that comprehenſive Bill that is to bring a Sabbath to this Kingdom; but the Houſe laid all aſide, as judging no Law could proſper that was blaſted by their Breath; unfit Perſons were they to adviſe His Majeſty, who after deep Wounds, ſcarce ſcarrified by application of Royal Mercy, had con<g ref="char:EOLhyphen"/>ſpired againſt him: Is Death therefore in the Pot? the Houſe voted to take out the wild Gourds; the Kings Writ was to gather Lentils: Is there Brackiſhneſs in the Waters? Caſt in Salt; be pleaſed to obſerve, Sugar will not do it: Is the Magazine a ſire? Separate that part: Is a Phyſitian Leprous? <hi>(Dio mi guarda del Medico rangoſo)</hi> Put him out of the Con<g ref="char:EOLhyphen"/>gregation.</p>
+            <p>Treaſon among Crimes is as the Plague among Diſeaſes; but an Infant Infected warrantably immures the Family, though Noble and Numerous: Would our Gracious Soveraign lent a quick Ear, we doubt not but ſome Spirits would have unhappily improv'd this Crime of ſome, ſo to the diſ<g ref="char:EOLhyphen"/>advantage of us all, as that we might have found our Door ſhut up with a <hi>Red Croſs</hi> and a <hi>Miſerere</hi> upon it: But to all ſuch His Majeſties Anſwer would be return'd with a frowning Brow,
+<q>
+                  <p>Parcito paucorum crimen diffundere in omnes.</p>
+               </q>
+            </p>
+            <p>And therefore after many, yet neceſſary Prorogations, His Majeſty hath Aſſembled us again; nay, and not only ſo, but encreaſed our Number by Additional Boroughs Created, and Impowered by Letters Patents to re<g ref="char:EOLhyphen"/>turn Burgeſſes, ſome of whoſe eminent Abilities we enjoy at this day; and none encreaſeth the Number of His Enemies: And truly, Sir, did not Ju<g ref="char:EOLhyphen"/>ſtice to our ſelves require, againſt whoſe Reputation and Honour they have ſo highly offended, our Duty and Allegiance to His Sacred Majeſty demands us that we ſhould not only purge our Houſe, but ſince His Maje<g ref="char:EOLhyphen"/>ſties Courts of Juſtice have already attach'd the Conuſance of their Crimes, that we ſhould rend them from our ſelves, and leave them to the Juſtice of the Laws.</p>
+            <p>In order hereunto we have already aired our Houſe with ſome pre<g ref="char:EOLhyphen"/>paratory Votes, and have appointed a ſhort day for ſharper Phyſick.
+<pb n="9" facs="tcp:151604:5"/>
+It is not my intent to draw this Beaſt at length, my pencil was only de<g ref="char:EOLhyphen"/>ſign'd for water colours work; truly, Sir, it is ſo, I rather deſire we may wear it on our breaſts, to remember it with indignation, then for Or<g ref="char:EOLhyphen"/>nament to a Room; I have only ſhown the track of the foot, that we may know <hi>ex ungue Leonem,</hi> and by <hi>Hercules</hi> his foot to make the Calculation of his other dimenſions: I have only pointed at a little cloud, but ſuch a one as would have overcaſt the Horizon of three Kingdoms. But God be prais'd the Cloud is overblown, and the Dragon kill'd.</p>
+            <p>The next queſtion is, who kill'd the Dragon? Let Hiſtory give a place to S. <hi>GEORGE</hi> in the Almanack; but let truth give your <hi>Grace</hi> a place in our hearts, who cruſh'd the Cockatrices egges: with humble hearts, hands and eyes lifted up to Heaven, we know our Anchor was within the vail, <hi>and to the watchmen of Iſrael we give the praiſe.</hi> Next we acknow<g ref="char:EOLhyphen"/>ledge and admire the wiſdom and goodneſs of our gracious Sovereign, that ſeparated you to ſteer this Kingdom that was beating of it out at Sea, whilſt his other two Kingdoms rode embayed: So, Sir, though you are not the Author, yet you are the Inſtrument deſign'd by God and our King; and then what ſhall it be done to the man whom God and the King intend to honour? You were preſerved in the Ark of Bulruſhes to be a Deliverer; I remember the time when you found the Bulruſhes, and God made you an Ark of them; even then, when to promote your Maſters Intereſts you came into <hi>London</hi> in the diſguiſe of Bulruſhes, (you then ſaw <hi>Cromwell,</hi> and he ſaw not you, though he beheld you, which proves him an Idol, that in ſeeing he did not ſee) and God of thoſe Bul<g ref="char:EOLhyphen"/>ruſhes made you an Ark; for he preſerved you in ſafety: what a Hecatomb of Loyalty would have been of your perſon, if in that Ark you had not floted above the waters? you put your hand to the Nail, and your right hand to the workmans hammer, with the hammer you ſmote the Plot, you ſmote off its head when you had pierced and ſtriken through the temples of it; at your fect it bowed, it fell, it lay down; at your feet it bowed, it fell, where it bowed, there it fell down dead.</p>
+            <p>But, Sir, did not repreſented Majeſty ſo well ſeated on your brow ſi<g ref="char:EOLhyphen"/>lence me, I ſhould acquaint your <hi>Grace,</hi> that I obſerved the Houſe of Commons much divided in their Paſſions in the management of their deliverance; their deliverance was their joy, but the hazard you expos'd your Perſon to make it full and compleat, was their grief; you would not be contented that your knowledge of it, and the prevention thereof ſhould bear one date, but you watched perſonally night and day to en<g ref="char:EOLhyphen"/>counter thoſe conſpirators in the very act: Sir, was this well done, to throw your Perſon into a throng of bloudy hands and deſperate hearts? was this an even ſtake, Nightingales againſt Hedge-ſparrows, and a Flag<g ref="char:EOLhyphen"/>ſhip to bear in to a Squadron of Fire-ſhips? Had they lopt your little finger off, though their bodies had lain gaſping in heaps, the victory had been theirs, and our eyes would have wept out the bonfires our hands had made: Therefore I am commanded to preſent <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you the humble Petition and Advice of the Houſe of Commons, That your <hi>Grace</hi> would meaſure your ſelfe, not by the Reſolves of your Courage, but by the Intereſt of a People whom you love, and of whom you are dearly beloved.</p>
+            <p>
+               <pb n="10" facs="tcp:151604:6"/>
+Upon the reſult of all this, I come to diſcharge the ſtrict command of the Houſe, to let your <hi>Grace</hi> know, that our hearts are towards the Go<g ref="char:EOLhyphen"/>vernour of <hi>Ireland,</hi> who offer'd himſelf willingly for the people. A ſingle tongue (though abler then I dare pretend unto) were too narrow a Channel for ſuch ſtreams of Gratitude to glide through: It may be pru<g ref="char:EOLhyphen"/>dence in me to imitate the Painter, who being required to draw <hi>Niobes</hi> face, and finding his ſhadows very feeble to repreſent the Paſſions of her Soul, drew <hi>Niobes</hi> head in a bag.</p>
+            <p>But, Sir, be pleaſed to accept from me, who in their Names humbly ten<g ref="char:EOLhyphen"/>der to your <hi>Grace</hi> their ſerious reſentment and acknowledgement of that happineſs this Kingdom enjoys by the prudent management of that great Truſt our Dread Sovereign hath inveſted you with, and in particular for that Sabbath we enjoy by ſo great and ſeaſonable deliverance from the conſequence of this Plot, ſo odious to all good men; accept, pray Sir, the tribute of their thanks, as an Earneſt and Aſſurance, that with their Lives and Fortunes they will aſſiſt your <hi>Grace</hi> in vindication of His Ma<g ref="char:EOLhyphen"/>jeſties Supreme Authority and Right, let the oppoſition be hatcht in dark<g ref="char:EOLhyphen"/>neſs, maſk'd with never ſo ſpecious pretences, or appear (if our ſins ſhould make way unto it) never ſo formidable with Armed Power.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="declaration">
+            <pb facs="tcp:151604:6"/>
+            <head>A DECLARATION OF THE KNIGHTS, CITIZENS, and BURGESSES IN THE Commons Houſe OF PARLIAMENT ASSEMBLED.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS certain wicked Perſons, of Fanatick and diſ<g ref="char:EOLhyphen"/>loyal Principles, diſaffected to His Majeſties juſt and gra<g ref="char:EOLhyphen"/>cious Government, and to the Peace and Settlement of this His Kingdom of <hi>Ireland,</hi> did in the year of our Lord God, One thouſand ſix hun<g ref="char:EOLhyphen"/>dred ſixty three, moſt Traiterouſly and diſloyally con<g ref="char:EOLhyphen"/>ſpire to raiſe Rebellion in this Realm, and particularly had deſign'd on the 21 day of <hi>May</hi> in the ſaid year 1663. to Surpriſe and Take His Majeſties Caſtle of <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> His principal Fort in this His Kingdom, and to ſeize on the Perſon of His Grace the Lord Lieu<g ref="char:EOLhyphen"/>tenant, in order to their carrying on their miſchei<g ref="char:EOLhyphen"/>vous contrivances, for renewing bloody confuſions throughout this Kingdom, from which Evils this
+<pb n="12" facs="tcp:151604:7"/>
+Realm, and all His Majeſties Subjects therein, had been then but newly redeemed, and that by the Bleſsing of God upon His Majeſties Happy Reſtauration to His Rightful Crowns and Kingdoms. And whereas we look upon thoſe odious Conſpiracies as the miſchie<g ref="char:EOLhyphen"/>vous Contrivances of ſome Fanatick and Diſloyal Perſons, of deſperate Fortunes, as well as of deſperate and deſtructive Principles, who endeavoured to amend their own Conditions by the Ruine of others, or to ſet up ſomthing (if they knew what) ſuitable to the frenzy of their own humours and Imagnations, though at the charge and hazard of others, and at the price of other mens Bloods, whom they laboured to ſeduce: And whereas that their horrid Conſpiracy being (by the Bleſsing of God upon the watchful Endeavours of His Grace the Lord Lieutenant) diſcovered and diſap<g ref="char:EOLhyphen"/>pointed, divers of the Conſpſrators were apprehended, and committed to Priſon, and ſome of them upon fair and equal Tryals, according to the Laws of the Land, were (in His Majeſties Court of Chief Place) found Guilty, and by Judgment of Law Condemned, and thereupon were moſt deſervedly Executed: And whereas one of thoſe Perſons ſo juſtly Executed, and ſome others alſo, who were involved in the guilt of that hideous Conſpiracy, were Members of the Commons Houſe of Parliament, which we mention with inward ſorrow, and grief of heart, and with horrour and dete<g ref="char:EOLhyphen"/>ſtation, to find that any Perſons who had the Honour (under the protection of His Majeſties bleſſed Govern<g ref="char:EOLhyphen"/>ment) to be Members of this Houſe, and conſequently entruſted in thoſe weighty Affairs, which (for the ſafe<g ref="char:EOLhyphen"/>ty and peace of the King and Kingdom) are often deli<g ref="char:EOLhyphen"/>berated and conſulted in this Houſe, ſhould be ſo un<g ref="char:EOLhyphen"/>grateful,
+<pb n="13" facs="tcp:151604:7"/>
+nay trayterous and diſloyal, as to conſpire even againſt that Government (which in the Duty of Sub<g ref="char:EOLhyphen"/>jects to His Majeſty, and the obligation of that Duty heightned by their being Members of this Houſe) they were bound by the Laws of God and Nature to con<g ref="char:EOLhyphen"/>tribute their beſt Endeavours to preſerve and main<g ref="char:EOLhyphen"/>tain: Yet this Parliament, by occaſion of the ſeveral neceſſary Prorogations from time to time, for impor<g ref="char:EOLhyphen"/>tant cauſes and conſiderations, until the 26 day of <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> 1665. had not the opportunity of Aſſembling, and conſequently could not declare (as we earneſtly deſired to do, and as we would have done much earlier if we had been Aſſembled) our unanimous deteſtation and abhorrence of that Traiterous Conſpiracy. And there<g ref="char:EOLhyphen"/>fore upon our firſt Meeting in this Houſe in this Seſsi<g ref="char:EOLhyphen"/>on, although many weighty Affairs lay before us, yet ſo ſenſible was this Houſe of that horrid Conſpiracy, and that aggravated in that Circumſtance, that ſome of the Conſpirators were Members of this Houſe, as we laid all other Affairs aſide for the preſent, and in the firſt place entred into conſideration of that particular: And thereupon this Houſe did and do hereby unani<g ref="char:EOLhyphen"/>mouſly declare their juſt deteſtation and abhorrence of that vile and odious Conſpiracy; and do alſo declare the deep ſenſe which this Houſe hath of His Grace the Lord Lieutenants great Prudence, Diligence, and Circumſpection, as in his timely diſcovering that hide<g ref="char:EOLhyphen"/>ous Confpiracie, ſo in his ſeaſonable prevention of the ſad, bloody, and dreadful Effects which (if not ſo pre<g ref="char:EOLhyphen"/>vented) might have followed thereupon throughout this Kingdom; for which his continual watchful En<g ref="char:EOLhyphen"/>deavours for the Safety and Peace of the KING and Kingdom, we do return to his Grace the moſt humble
+<pb n="14" facs="tcp:151604:8"/>
+and hearty Thanks of this Houſe, and do aſſure him of the conſtant Loyalty of this Houſe to His Majeſty, and their humble Obedience to His Grace, whom His Ma<g ref="char:EOLhyphen"/>jeſty hath in His high Wiſdom appointed for the Go<g ref="char:EOLhyphen"/>vernment of this His Kingdom, and People therein, under the prudent Conduct of His Majeſty. And that this Houſe may not fail in any point of Duty to His Majeſty, we are fully reſolved to make ſtrict In<g ref="char:EOLhyphen"/>quiry what Members of this Houſe have been ſo wicked as to have had any hand in thoſe horrid Guilts, ſo hateful to God and Man; and for ſuch as ſhall be found, we ſhall take ſuch courſe for the juſt proſecution of them, as may manifeſt the Actions of this Houſe to be equal and agreeable to the Declaration we have herein made, as of our juſt deteſtation and abhorrence of ſuch foul Crimes, ſo of our bounden Duty and unfeigned Loyalty to His Sacred Majeſty. And to the end this our Declaration may be delivered over to Po<g ref="char:EOLhyphen"/>ſterity, and to teſtifie to the World the true ſenſe we have of the Duty and Loyalty which by the Laws of God, and by our Natural Allegiance to His Majeſtie, we owe to Him, and which by the bleſsing of God we ſhall be alwaies ready to pay to Him, with that faithfulneſs which becoms the Loyalty and Obedience of good Subjects to ſo Great and Gracious a Majeſtie, it is Ordered, That this Declaration be entred in the Journal Books of the Proceedings of this Houſe.</p>
+            <closer>
+               <dateline>Dated <date>the Second of <hi>November, 1665.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:151604:8"/>
+            <p>ORdered, <hi>Nemine contradicente,</hi> That the Speech delivered by Mr. Speaker yeſterday to His Grace <hi>James</hi> Duke of <hi>Ormond,</hi> Lord Lieutenant of this Kingdom, be forthwith Printed and Publiſhed; and that Mr. Speaker receive the Thanks of this Houſe for ſo clearly delivering their ſenſe therein, <hi>Novemb.</hi> 8. 1665.</p>
+            <closer>
+               <signed>
+                  <hi>Phil. Ferneſley,</hi> Cler. Parliam.</signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <p>ORdered, <hi>Nemine contradicente,</hi> That the Decla<g ref="char:EOLhyphen"/>ration of this Houſe, entituled, <hi>A Declaration of the Knights, Citizens, and Burgeſſes in the Commons Houſe of Parliament aſſembled,</hi> be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Phil. Ferneſley,</hi> Cler. Parliam.</signed>
+            </closer>
+            <pb facs="tcp:151604:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
